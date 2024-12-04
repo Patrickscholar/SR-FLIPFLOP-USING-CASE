@@ -34,7 +34,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+/1.	Type the program in Quartus software.
+
+2.	Compile and run the program.
+
+3.	Generate the RTL schematic and save the logic diagram.
+
+4.	Create nodes for inputs and outputs to generate the timing diagram.
+
+5.	For different input combinations generate the timing diagram.
+
 
 **PROGRAM**
 ```
@@ -79,3 +88,4 @@ endmodule
 <img width="1462" alt="Screenshot 2024-12-04 at 1 30 24 PM" src="https://github.com/user-attachments/assets/e57d5430-fe43-4186-a361-0727d3cd971f">
 
 **RESULTS**
+sucessfully implemented SR flipflop using verilog and validating their functionality using their functional tables
