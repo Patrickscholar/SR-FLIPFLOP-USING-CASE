@@ -34,7 +34,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/1.	Type the program in Quartus software.
+1.	Type the program in Quartus software.
 
 2.	Compile and run the program.
 
