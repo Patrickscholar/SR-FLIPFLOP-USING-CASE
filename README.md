@@ -90,7 +90,7 @@ endmodule
 <img width="1469" alt="Screenshot 2024-12-04 at 1 27 13 PM" src="https://github.com/user-attachments/assets/889a3dfc-5c71-43e1-807e-768b86cc5019">
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1462" alt="Screenshot 2024-12-04 at 1 30 24 PM" src="https://github.com/user-attachments/assets/e57d5430-fe43-4186-a361-0727d3cd971f">
+![Screenshot 2024-12-23 105231](https://github.com/user-attachments/assets/bf9f6009-7068-42f3-b6cd-4d9f82fa1c90)
 
 **RESULTS**
 sucessfully implemented SR flipflop using verilog and validating their functionality using their functional tables
